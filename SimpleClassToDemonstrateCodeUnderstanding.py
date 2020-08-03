@@ -41,6 +41,10 @@ if __name__ == "__main__":
 				default= "desire job", 
 				type=str,
 				help="write employee profession")
+    parser.add_argument('-o', "--option",
+                default="option",
+                type=str
+                help="demo git")
 	args = parser.parse_args()	
 
 	cleanClass = SimpleClassToDemonstrateCleanCode()

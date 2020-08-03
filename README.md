@@ -1,2 +1,2 @@
 # DNA
-Repo to Detect Cancer 
+Repositorie to Detect Cancer 
